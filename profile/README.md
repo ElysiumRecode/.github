@@ -3,3 +3,5 @@
     
 ## Socials
     Discord : discord.gg/vapev4
+##For non developers
+Scram modda fucka
