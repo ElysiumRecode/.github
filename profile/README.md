@@ -3,4 +3,4 @@
 ## Socials
     Discord : discord.gg/vapev4
 ## For non developers
-    Scram modda fucka
+    we decided to open source our project credit goes all the developers that helped make this project a reality
